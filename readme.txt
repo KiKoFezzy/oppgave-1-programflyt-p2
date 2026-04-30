@@ -13,4 +13,5 @@ output: Melk: (under 10) 10% rabatt
 under 10stk - 10% rabatt
 under 25stk - 25% rabatt
 under 99stk - 40# rabatt
-har testa input: 2stk, 3stk, 5stk, 15stk, 20stk, 25stk, 26stk, 31stk, 69stk, 72stk og 101stk - alle ga riktig output
+har testa input: 2stk, 3stk, 5stk, 15stk, 20stk, 25stk, 26stk, 31stk, 69stk, 72stk og 101stk - 
+alle ga riktig output -rotet litt og skjønte ikke helt hvordan jeg skulle legge til å "velge" et produkt for så å legge til antall
